@@ -1,2 +1,4 @@
-# Consensus
-Triad relationship builder for parents teachers and teens
+WELCOME TO CONSENSUS
+A Triad relationship builder for parents teachers and youth, targeted to ages 11 to 13, or elementary to middle school transition: When choices take shape.
+The Problem: The triad shared vision for youth success is disconnected. youth want independence while still need plenty of support from parents.  Upon youth request, parents allow them to manage school without parents intervention. When things are fine all is well. when things go the other way, children need our help, but we are not aware and do litte or nothng.
+A Proposed Solution: A reward, tokenized, platform/app with token redemption capabilities that based in a triad, seamless synchronized, shared vision of youth sucess in school and life, incentives and motivates both parents and youth, and facilitate teachers' job.
